@@ -2,8 +2,8 @@ We see three critical differences between programming and software engineering: 
 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
-> Baseado no texto acima, é possível inferir:
+> __Baseado no texto acima, é possível inferir:__
 >
 > Os 3 conceitos de engenharia de software 'time, scale and trade-offs' representam, respectivamente: Uma estimativa do tempo de produção bem como 'espaços reservados' para eventuais mudanças que sejam necessárias; O que torna um produto escalável ou não é o fato do software poder ser transferido de uma tarefa específica para uma mais geral de forma a manter seu funcionamento; São escolhas que se pautam no objetivo do programa afim de conseguir uma maior eficiencia, como, por exemplo, a escolha de uma certa linguagem quando se tratando de um software para raspagem de dados e outro para desenvolver um aplicativo para android.
 >
-> Três exemplos de trade-offs são: a escolha de python perante java ao realizar uma tarefa de machine learning, usar computação em cloud inves de hardware físico para redução de custos e um sistema operacional mais leve quando se pensa em hospedar um site com abrangência global.
+>_**Três exemplos de trade-offs**: a escolha de python perante java ao realizar uma tarefa de machine learning, usar computação em cloud inves de hardware físico para redução de custos e um sistema operacional mais leve quando se pensa em hospedar um site com abrangência global._
