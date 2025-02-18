@@ -7,9 +7,9 @@ public class Teste {
         cao.mover();
 
         Aguia aguia = new Aguia();
-        aguia.mover();
+        aguia.voar();
 
         Papagaio papa = new Papagaio();
-        papa.mover();
+        papa.voar();
     }
 }
